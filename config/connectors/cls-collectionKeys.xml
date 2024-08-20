@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:sap_c4c_ccs_query" connectorServiceName="CCS:sap_c4c_ccs_query"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
